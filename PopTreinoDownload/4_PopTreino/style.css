@@ -1,0 +1,33 @@
+*{
+
+text-align:center;
+}
+
+
+body{
+
+ background-image:url(imagen.png);
+ height: 20%;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+ padding: 5rem;
+    
+}
+ 
+h1{
+
+    padding: 5rem;
+    
+}
+
+h1, h2, h4 {
+
+    color: rgb(145, 78, 15);
+}
+
+h3 , h6{
+    color: white;
+
+}
+
